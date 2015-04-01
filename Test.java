@@ -1,4 +1,4 @@
-public class Test{
+public class Test {
 
 public staitic main (args[]) {
 
