@@ -17,5 +17,5 @@ public class EmailServiceConfiguration<MessagesConfiguration> extends Configurat
         this.messages = messages;
     }
   
- 
+ // ALC
 }
